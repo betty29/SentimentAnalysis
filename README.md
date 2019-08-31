@@ -1,5 +1,5 @@
 # SentimentAnalysis
-A combined project on natural language processing and deep learning.Sentiment Analysis is the most common text classification tool that analyses an incoming message and tells whether the underlying sentiment is positive, negative our neutral.
+A combined project on natural language processing and deep learning.Sentiment Analysis is the most common text classification tool that analyses an incoming message and tells whether the underlying sentiment is positive, negative or neutral.
 Here it is a basic project that analyse movie reviews and predicts how good the movie is.Naive Bayes Classifier algorithm which is a classification algorithm under supervised learning is used here.
 
 There are many algorithms to implement sentiment analysis and here I have used the automatic approach, which uses machine learning techniques. The sentiment analysis task is usually modeled as a classification problem where a classifier is fed with a text and returns the corresponding category, e.g. positive, negative, or neutral. 
